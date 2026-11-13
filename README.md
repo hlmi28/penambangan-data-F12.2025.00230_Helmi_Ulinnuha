@@ -1,6 +1,7 @@
 # Klasifikasi dengan Naive Bayes - UTS Penambangan Data
 
 **Nama:** Helmi Ulinnuha
+
 **NIM:** F12.2025.00230
 
 ## Deskripsi
