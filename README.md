@@ -1,0 +1,1 @@
+# penambangan-data-F12.2025.00230_Helmi_Ulinnuha
